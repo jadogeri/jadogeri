@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **josephadogeri@gmail.com**
 
-- 🔭 I’m currently working on **Backend with Node.Js and Express.Js**
-
 <!--- 👨‍💻 All of my projects are available at [www.gauravrizal.com.np](https://www.gauravrizal.com.np) -->
 
 <!--- 📄 Know about my experiences [www.gauravrizal.com.np/resume](www.gauravrizal.com.np/resume) -->
@@ -34,8 +32,10 @@ Here are some ideas to get you started:
 <h2 align="left">💬 Connect with me</h2>
 <p align="left">
 <a href="[https://linkedin.com/in/hussain-pettiwala-198469202](https://www.linkedin.com/in/josephadogeri)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain-pettiwala-198469202" height="30" width="40" /></a>
+  <!--
 <a href="https://stackoverflow.com/users/14225169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14225169" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucp0nkwhvrjytji6dxtbxpiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucp0nkwhvrjytji6dxtbxpiw" height="30" width="40" /></a>
+  -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
